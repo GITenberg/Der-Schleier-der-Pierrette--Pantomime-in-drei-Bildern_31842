@@ -1,0 +1,28 @@
+_repo: Der-Schleier-der-Pierrette--Pantomime-in-drei-Bildern_31842
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schnitzler, Arthur
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '3010'
+    url: http://www.gutenberg.org/2009/agents/3010
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schnitzler
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2010-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31842'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama -- 20th century'
+- !lcc 'PT'
+title: 'Der Schleier der Pierrette: Pantomime in drei Bildern'
+url: http://www.gutenberg.org/ebooks/31842
