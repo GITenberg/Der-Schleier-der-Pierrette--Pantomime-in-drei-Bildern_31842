@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3010
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Schnitzler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31842#Der-Schleier-der-Pierrette--Pantomime-in-drei-Bildern
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2010-03-31'
 gutenberg_type: Text
